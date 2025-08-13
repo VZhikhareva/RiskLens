@@ -21,4 +21,8 @@ The project includes:
 
 **RiskLens** can be used directly via the browser interface or integrated into other systems through its API, making it suitable for demos, prototyping, and extension into production-grade workflows.  
 
+
+This project uses a **zero-shot** approach — the LLM (`gpt-4o-mini` via OpenAI API) is not fine-tuned but guided entirely by prompt engineering and strict Pydantic schema validation to produce consistent, structured outputs.
+
+
 ![Alt text](sample.png)
