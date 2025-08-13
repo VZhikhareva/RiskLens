@@ -20,3 +20,5 @@ The project includes:
 - **LLM integration:** OpenAI API for risk extraction and formatting  
 
 **RiskLens** can be used directly via the browser interface or integrated into other systems through its API, making it suitable for demos, prototyping, and extension into production-grade workflows.  
+
+![Alt text](sample.png)
